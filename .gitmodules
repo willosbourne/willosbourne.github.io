@@ -1,0 +1,3 @@
+[submodule "profile/hugo-academic"]
+	path = profile/hugo-academic
+	url = https://github.com/gcushen/hugo-academic
